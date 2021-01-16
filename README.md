@@ -1,1 +1,5 @@
 # Pandas-Challenge
+Heroes of Pymoli data was analyzed using Pandas .
+From the scrubbed data we can find that 20-24 year olds are most commonly playing this game. Overall there are 44.79% of the players in that age range. Men are also more likely to play this game compared to women 84.03% compared to just 14.06%. 
+This group also spends the most money on  as a group, but not the most money on average. It was found that the highest spending age groups are 35-39 year olds followed by under 10 year olds. This is likely because players under the age of 10 are asking their parents or spending on the game without their permission. Adults 35-39 are usually in the full swing of their careers and have more disposable funds at their discretion. 
+The most popular and profitable item was found to be "Final Critic". It was the most bought item and likely shows that it is more powerful than the rest of the items that can be purchased. Lowering the overall power of this item would likely balance the game more since the community has shown an affinity for it, but will also make those that have purchased it upset and lower their overall interest in the game. 
